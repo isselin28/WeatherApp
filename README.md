@@ -3,7 +3,7 @@
 Most apps nowadays uses API web request to power their performance. So does this simple app. The Weather App is built as a practice for handling web request and parsing JSON dictionary object. This iOS application is powered by DarkSky API.
 
 <div style="text-align:center">
-<img src=https://raw.githubusercontent.com/iqDF/WeatherApp/img/screenshot2.png width=290 />
+<img src=https://raw.githubusercontent.com/iqDF/WeatherApp/master/img/screenshot2.png width=290 />
 </div>
 
 Cheers!
@@ -36,9 +36,9 @@ pod install
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [CocoaPods] (https://cocoapods.org) - The dependency manager used
+* [XCode](https://rometools.github.io/rome/) - The framework for elegant networking
+* [Swift 4.0] - Languages for iOS programming
 
 ## Acknowledgments
 
