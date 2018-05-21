@@ -1,12 +1,9 @@
 # Project Title
 
 Most apps nowadays uses API web request to power their performance. So does this simple app. The Weather App is built as a practice for handling web request and parsing JSON dictionary object. This iOS application is powered by DarkSky API.
-
-<p align = "center">
-<img "src=https://raw.githubusercontent.com/iqDF/WeatherApp/master/img/screenshot2.png width=290>
-</p>
-
-Cheers!
+<div>
+<p align = "center"> <img align="center" src="https://raw.githubusercontent.com/iqDF/WeatherApp/master/img/screenshot2.png"><br>Home page Screenshot </p>
+</div>
 
 ## Getting Started
 
